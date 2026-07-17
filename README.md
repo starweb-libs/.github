@@ -1,6 +1,8 @@
 # Starweb Libraries
 Organization-wide configuration and documentation for the [starweb-libs](https://github.com/starweb-libs) org.
 
+[![Version](https://img.shields.io/github/v/tag/starweb-libs/.github?label=version)](https://github.com/starweb-libs/.github/tags)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
 
 - [`profile/README.md`](./profile/README.md) — Public org profile page
 - [`README.md`](./README.md) — Organization configuration and documentation
