@@ -10,14 +10,15 @@
 
 | Name/Category | URL(s) | Description |
 | ------------- | ------ | ----------- |
-| Games                                |
+| Games         |        |             |
 | Pixel Parker | [GitHub](https://github.com/masonlet/pixel-parker) | Top-down vehicle parking puzzle game |
 | Starweb Sandbox | [GitHub](https://github.com/masonlet/starweb-sandbox) | Stress test and sandbox environment |
-| Libraries                            |
+| Libraries     |        |             |
 | Engine | [GitHub](https://github.com/starweb-libs/engine), [npm](https://www.npmjs.com/package/@starweb-libs/engine) | Canvas, input, game loop, and asset utilities |
 | Physics | [GitHub](https://github.com/starweb-libs/physics), [npm](https://www.npmjs.com/package/@starweb-libs/physics) | SAT and circle collision detection |
 | Tween | [GitHub](https://github.com/starweb-libs/tween), [npm](https://www.npmjs.com/package/@starweb-libs/tween) | Frame-driven tween manager with easing |
 | Audio | [GitHub](https://github.com/starweb-libs/audio), [npm](https://www.npmjs.com/package/@starweb-libs/audio) | Web Audio API playback and management |
 | UI | [GitHub](https://github.com/starweb-libs/ui), [npm](https://www.npmjs.com/package/@starweb-libs/ui) | Canvas UI primitives for browser games |
-| Development                          |
+| Development    |        |             |
 | Template Library | [GitHub](https://github.com/starweb-libs/template-library) | Scaffold template for new library projects |
+| Org Config | [GitHub](https://github.com/starweb-libs/.github) | Reusable CI workflows, org config, and documentation |
