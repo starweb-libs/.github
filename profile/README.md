@@ -19,6 +19,7 @@
 | Tween | [GitHub](https://github.com/starweb-libs/tween), [npm](https://www.npmjs.com/package/@starweb-libs/tween) | Frame-driven tween manager with easing |
 | Audio | [GitHub](https://github.com/starweb-libs/audio), [npm](https://www.npmjs.com/package/@starweb-libs/audio) | Web Audio API playback and management |
 | UI | [GitHub](https://github.com/starweb-libs/ui), [npm](https://www.npmjs.com/package/@starweb-libs/ui) | Canvas UI primitives for browser games |
+| Menus | [GitHub](https://github.com/starweb-libs/menus), [npm](https://www.npmjs.com/package/@starweb-libs/menus) | Composable canvas menu screens for browser games |
 | Development    |        |             |
 | Template Library | [GitHub](https://github.com/starweb-libs/template-library) | Scaffold template for new library projects |
 | Org Config | [GitHub](https://github.com/starweb-libs/.github) | Reusable CI workflows, org config, and documentation |
